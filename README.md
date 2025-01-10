@@ -25,4 +25,5 @@ Securely stores teacher, student, and marks data in text files.
 Ensures data is retrieved seamlessly during execution.
 
 Have questions or feedback? Reach out to me here on GitHub or connect with me on LinkedIn!
+
 LinkedIn: https://www.linkedin.com/in/tasleem-ahmad-534335346/
